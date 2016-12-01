@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map name="kris" width="8" height="8" tileWidth="8" tileHeight="8">
+    <tileset id="1" path="content/tilesets/outside.png" width="6" height="2"/>
+    <tiles>
+        <pos x="1" y="1">
+            <tile layer="1" tileset="1">6</tile>
+        </pos>
+        <pos x="2" y="1">
+            <tile layer="1" tileset="1">6</tile>
+        </pos>
+        <pos x="3" y="1">
+            <tile layer="1" tileset="1">6</tile>
+        </pos>
+        <pos x="4" y="1">
+            <tile layer="1" tileset="1">6</tile>
+        </pos>
+        <pos x="5" y="1">
+            <tile layer="1" tileset="1">6</tile>
+        </pos>
+        <pos x="6" y="1">
+            <tile layer="1" tileset="1">6</tile>
+        </pos>
+        <pos x="7" y="1">
+            <tile layer="1" tileset="1">6</tile>
+        </pos>
+        <pos x="8" y="1">
+            <tile layer="1" tileset="1">6</tile>
+        </pos>
+        <pos x="1" y="2">
+            <tile layer="1" tileset="1">6</tile>
+        </pos>
+        <pos x="2" y="2">
+            <tile layer="1" tileset="1">6</tile>
+        </pos>
+        <pos x="3" y="2">
+            <tile layer="1" tileset="1">6</tile>
+        </pos>
+        <pos x="4" y="2">
+            <tile layer="1" tileset="1">6</tile>
+        </pos>
+        <pos x="5" y="2">
+            <tile layer="1" tileset="1">6</tile>
+        </pos>
+        <pos x="6" y="2">
+            <tile layer="1" tileset="1">6</tile>
+        </pos>
+        <pos x="7" y="2">
+            <tile layer="1" tileset="1">6</tile>
+        </pos>
+        <pos x="8" y="2">
+            <tile layer="1" tileset="1">6</tile>
+        </pos>
+        <pos x="1" y="3">
+            <tile layer="1" tileset="1">6</tile>
+        </pos>
+        <pos x="2" y="3">
+            <tile layer="1" tileset="1">6</tile>
+        </pos>
+        <pos x="3" y="3">
+            <tile layer="1" tileset="1">6</tile>
+        </pos>
+        <pos x="4" y="3">
+            <tile layer="1" tileset="1">6</tile>
+        </pos>
+        <pos x="5" y="3">
+            <tile layer="1" tileset="1">6</tile>
+        </pos>
+        <pos x="6" y="3">
+            <tile layer="1" tileset="1">6</tile>
+        </pos>
+        <pos x="7" y="3">
+            <tile layer="1" tileset="1">6</tile>
+        </pos>
+        <pos x="8" y="3">
+            <tile layer="1" tileset="1">6</tile>
+        </pos>
+        <pos x="1" y="4">
+            <tile layer="1" tileset="1">6</tile>
+        </pos>
+        <pos x="2" y="4">
+            <tile layer="1" tileset="1">6</tile>
+        </pos>
+        <pos x="3" y="4">
+            <tile layer="1" tileset="1">6</tile>
+        </pos>
+        <pos x="4" y="4">
+            <tile layer="1" tileset="1">6</tile>
+        </pos>
+        <pos x="5" y="4">
+            <tile layer="1" tileset="1">6</tile>
+        </pos>
+        <pos x="6" y="4">
+            <tile layer="1" tileset="1">6</tile>
+        </pos>
+        <pos x="7" y="4">
+            <tile layer="1" tileset="1">6</tile>
+        </pos>
+        <pos x="8" y="4">
+            <tile layer="1" tileset="1">6</tile>
+        </pos>
+        <pos x="1" y="5">
+            <tile layer="1" tileset="1">6</tile>
+        </pos>
+        <pos x="2" y="5">
+            <tile layer="1" tileset="1">6</tile>
+        </pos>
+        <pos x="3" y="5">
+            <tile layer="1" tileset="1">6</tile>
+        </pos>
+        <pos x="4" y="5">
+            <tile layer="1" tileset="1">6</tile>
+        </pos>
+        <pos x="5" y="5">
+            <tile layer="1" tileset="1">6</tile>
+        </pos>
+        <pos x="6" y="5">
+            <tile layer="1" tileset="1">6</tile>
+        </pos>
+        <pos x="7" y="5">
+            <tile layer="1" tileset="1">6</tile>
+        </pos>
+        <pos x="8" y="5">
+            <tile layer="1" tileset="1">6</tile>
+        </pos>
+        <pos x="1" y="6">
+            <tile layer="1" tileset="1">6</tile>
+            <tile layer="2" tileset="1">1</tile>
+        </pos>
+        <pos x="2" y="6">
+            <tile layer="1" tileset="1">6</tile>
+            <tile layer="2" tileset="1">2</tile>
+        </pos>
+        <pos x="3" y="6">
+            <tile layer="1" tileset="1">6</tile>
+            <tile layer="2" tileset="1">3</tile>
+        </pos>
+        <pos x="4" y="6">
+            <tile layer="1" tileset="1">6</tile>
+            <tile layer="2" tileset="1">4</tile>
+        </pos>
+        <pos x="5" y="6">
+            <tile layer="1" tileset="1">6</tile>
+            <tile layer="2" tileset="1">4</tile>
+        </pos>
+        <pos x="6" y="6">
+            <tile layer="1" tileset="1">6</tile>
+            <tile layer="2" tileset="1">3</tile>
+        </pos>
+        <pos x="7" y="6">
+            <tile layer="1" tileset="1">6</tile>
+            <tile layer="2" tileset="1">4</tile>
+        </pos>
+        <pos x="8" y="6">
+            <tile layer="1" tileset="1">6</tile>
+            <tile layer="2" tileset="1">5</tile>
+        </pos>
+        <pos x="1" y="7">
+            <tile layer="1" tileset="1">6</tile>
+            <tile layer="2" tileset="1">7</tile>
+        </pos>
+        <pos x="2" y="7">
+            <tile layer="1" tileset="1">6</tile>
+            <tile layer="2" tileset="1">7</tile>
+        </pos>
+        <pos x="3" y="7">
+            <tile layer="1" tileset="1">6</tile>
+            <tile layer="2" tileset="1">7</tile>
+        </pos>
+        <pos x="4" y="7">
+            <tile layer="1" tileset="1">6</tile>
+            <tile layer="2" tileset="1">7</tile>
+        </pos>
+        <pos x="5" y="7">
+            <tile layer="1" tileset="1">6</tile>
+            <tile layer="2" tileset="1">7</tile>
+        </pos>
+        <pos x="6" y="7">
+            <tile layer="1" tileset="1">6</tile>
+            <tile layer="2" tileset="1">7</tile>
+        </pos>
+        <pos x="7" y="7">
+            <tile layer="1" tileset="1">6</tile>
+            <tile layer="2" tileset="1">7</tile>
+        </pos>
+        <pos x="8" y="7">
+            <tile layer="1" tileset="1">6</tile>
+            <tile layer="2" tileset="1">11</tile>
+        </pos>
+        <pos x="1" y="8">
+            <tile layer="1" tileset="1">6</tile>
+            <tile layer="2" tileset="1">7</tile>
+        </pos>
+        <pos x="2" y="8">
+            <tile layer="1" tileset="1">6</tile>
+            <tile layer="2" tileset="1">7</tile>
+        </pos>
+        <pos x="3" y="8">
+            <tile layer="1" tileset="1">6</tile>
+            <tile layer="2" tileset="1">7</tile>
+        </pos>
+        <pos x="4" y="8">
+            <tile layer="1" tileset="1">6</tile>
+            <tile layer="2" tileset="1">7</tile>
+        </pos>
+        <pos x="5" y="8">
+            <tile layer="1" tileset="1">6</tile>
+            <tile layer="2" tileset="1">7</tile>
+        </pos>
+        <pos x="6" y="8">
+            <tile layer="1" tileset="1">6</tile>
+            <tile layer="2" tileset="1">7</tile>
+        </pos>
+        <pos x="7" y="8">
+            <tile layer="1" tileset="1">6</tile>
+            <tile layer="2" tileset="1">7</tile>
+        </pos>
+        <pos x="8" y="8">
+            <tile layer="1" tileset="1">6</tile>
+            <tile layer="2" tileset="1">11</tile>
+        </pos>
+    </tiles>
+    <objects>
+        <lights/>
+        <shapes>
+            <rectangles>
+                <rectangle name="Green!" color="367991156" type="1">
+                    <pos x="105.8538" y="130.83051"/>
+                    <size w="149" h="52.000008"/>
+                </rectangle>
+                <rectangle name="Black!" color="132" type="1">
+                    <pos x="16" y="77"/>
+                    <size w="34" h="135"/>
+                </rectangle>
+                <rectangle name="Pink" color="4020891472" type="2">
+                    <pos x="49.000004" y="117.00003"/>
+                    <size w="40.000008" h="115"/>
+                </rectangle>
+            </rectangles>
+            <points>
+                <point name="Blue!" color="11250687">
+                    <pos x="164.99997" y="38.999992"/>
+                </point>
+                <point name="Green!!!" color="59654143">
+                    <pos x="81.999969" y="49.999992"/>
+                </point>
+            </points>
+            <lines>
+                <line name="A long platform path" color="4127195391">
+                    <points>
+                        <point name="p1" color="16711935">
+                            <pos x="15.000004" y="7.0000038"/>
+                        </point>
+                        <point name="p2" color="16711935">
+                            <pos x="106.00002" y="7.0000038"/>
+                        </point>
+                        <point name="p3" color="16711935">
+                            <pos x="133.00002" y="57.999992"/>
+                        </point>
+                        <point name="p4" color="16711935">
+                            <pos x="220" y="52.999996"/>
+                        </point>
+                        <point name="p5" color="16711935">
+                            <pos x="163" y="97.000008"/>
+                        </point>
+                        <point name="p6" color="16711935">
+                            <pos x="220" y="212"/>
+                        </point>
+                        <point name="p7" color="16711935">
+                            <pos x="144" y="228"/>
+                        </point>
+                    </points>
+                </line>
+            </lines>
+        </shapes>
+    </objects>
+</map>

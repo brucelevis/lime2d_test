@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="libext">
+      <UniqueIdentifier>{a1bca90d-dbcc-426d-b909-0ee024b17fcb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{2df68c54-7c87-482c-ba79-d4d7ca5ec105}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="libext\imgui_draw.cpp">
+      <Filter>libext</Filter>
+    </ClCompile>
+    <ClCompile Include="libext\imgui-SFML.cpp">
+      <Filter>libext</Filter>
+    </ClCompile>
+    <ClCompile Include="libext\tinyxml2.cpp">
+      <Filter>libext</Filter>
+    </ClCompile>
+    <ClCompile Include="libext\imgui.cpp">
+      <Filter>libext</Filter>
+    </ClCompile>
+    <ClCompile Include="libext\imgui_demo.cpp">
+      <Filter>libext</Filter>
+    </ClCompile>
+    <ClCompile Include="src\lime2d.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\lime2d_internal.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\main.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\win32-glob.c">
+      <Filter>src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="libext\imgui_internal.h">
+      <Filter>libext</Filter>
+    </ClInclude>
+    <ClInclude Include="libext\imgui-SFML.h">
+      <Filter>libext</Filter>
+    </ClInclude>
+    <ClInclude Include="libext\stb_rect_pack.h">
+      <Filter>libext</Filter>
+    </ClInclude>
+    <ClInclude Include="libext\stb_textedit.h">
+      <Filter>libext</Filter>
+    </ClInclude>
+    <ClInclude Include="libext\stb_truetype.h">
+      <Filter>libext</Filter>
+    </ClInclude>
+    <ClInclude Include="libext\tinyxml2.h">
+      <Filter>libext</Filter>
+    </ClInclude>
+    <ClInclude Include="libext\imconfig.h">
+      <Filter>libext</Filter>
+    </ClInclude>
+    <ClInclude Include="libext\imgui.h">
+      <Filter>libext</Filter>
+    </ClInclude>
+    <ClInclude Include="src\lime2d.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\lime2d_internal.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\win32-glob.h">
+      <Filter>src</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
